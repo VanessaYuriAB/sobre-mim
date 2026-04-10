@@ -60,6 +60,7 @@ sobre-mim/
 │   ├── card-image-familia.jpg
 │   ├── card-image-musica.jpg
 │   └── header-image.jpg
+├── .gitignore
 ├── index.html
 ├── README.md
 └── style.css
