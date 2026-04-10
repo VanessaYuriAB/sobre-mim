@@ -8,7 +8,7 @@ O objetivo foi criar uma **página web “Sobre Mim”** com a **mesma estrutura
 **conteúdo e imagens** para refletir informações pessoais e hobbies.
 
 **OBS**: o repositório do projeto educacional "Quatro Regras de Design" pode ser acessado
-aqui.
+[aqui](https://github.com/VanessaYuriAB/quatro-regras-design).
 
 ---
 
