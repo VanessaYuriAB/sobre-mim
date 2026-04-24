@@ -12,6 +12,14 @@ O objetivo foi criar uma **página web “Sobre Mim”** com a **mesma estrutura
 
 ---
 
+## 🔗 Visualização do Projeto
+
+Disponível via **GitHub Pages**:
+
+➡️ https://vanessayuriab.github.io/sobre-mim/
+
+---
+
 ## 🎯 Objetivo do Projeto
 
 - Recriar a estrutura do layout-base fornecido no curso
